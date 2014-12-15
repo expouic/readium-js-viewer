@@ -413,6 +413,15 @@
   "i18n_page_navigation" : {
     "message" : "Page Navigation"
   },
+  "i18n_zoom_custom" : {
+    "message" : "Custom"
+  },
+  "i18n_zoom_fit_width" : {
+    "message" : "Fit width"
+  },
+  "i18n_zoom_fit_screen" : {
+    "message" : "Fit screen"
+  },
   "chrome_accept_languages": {
     "message": "$CHROME$ accepts $languages$ languages",
     "placeholders": {
